@@ -255,7 +255,7 @@ var Carcrash = {
 }
 
 
-
+console.log(Carcrash);
 
  </script>
 </html>
