@@ -204,9 +204,55 @@ var Carcrash = {
 console.log(Carcrash);
 */
 
+//Tried to optimize
+// 0 = Masina
+// 1 = Dviratis
+// 2 = Pestysis
+var Carcrash = {
 
-
-
+		"2017-11-21":
+		{
+			"kaunoAp":[64, 8, 1,],
+			"siauliuAP":[24, 2, 2,],
+			"VilniausAP":[45, 1, 1,]
+		},
+		"2017-11-22":
+		{
+			"kaunoAp":[64, 8, 1,],
+			"siauliuAP":[24, 2, 2,],
+			"VilniausAP":[45, 1, 1,]
+		},
+		"2017-11-23":
+		{
+			"kaunoAp":[64, 8, 1,],
+			"siauliuAP":[24, 2, 2,],
+			"VilniausAP":[45, 1, 1,]
+		},
+		"2017-11-24":
+		{
+			"kaunoAp":[64, 8, 1,],
+			"siauliuAP":[24, 2, 2,],
+			"VilniausAP":[45, 1, 1,]
+		},
+		"2017-11-25":
+		{
+			"kaunoAp":[64, 8, 1,],
+			"siauliuAP":[24, 2, 2,],
+			"VilniausAP":[45, 1, 1,]
+		},
+		"2017-11-26":
+		{
+			"kaunoAp":[64, 8, 1,],
+			"siauliuAP":[24, 2, 2,],
+			"VilniausAP":[45, 1, 1,]
+		},
+		"2017-11-27":
+		{
+			"kaunoAp":[64, 8, 1,],
+			"siauliuAP":[24, 2, 2,],
+			"VilniausAP":[45, 1, 1,]
+		},
+}
 
 
 
