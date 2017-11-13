@@ -255,7 +255,7 @@ var Carcrash = {
 		},
 }
 */
-
+/*
 //Tried to optimize 2.0
 // 0 = Masina
 // 1 = Dviratis
@@ -290,6 +290,93 @@ var Carcrash = {
 			"2017-12-3":[45, 1, 1,],
 		},
 }
+*/
+
+
+
+
+//How it should be
+
+var typeDO = [
+	{
+		"id":1,
+		"name":"mašina",
+
+	}
+]
+
+
+var participantsDO =[
+	{
+		"tipas":1,
+		"plate_nr": "GOH 606",
+		"id_number": "4555896"
+
+	},
+	{
+		"tipas":2,
+		"plate_nr": "FZR 606",
+		"id_number": "4555896"
+
+	},
+	{
+		"tipas":3,
+		"plate_nr": "FZR 756",
+		"id_number": "4555896"
+
+	},
+	{
+		"tipas":4,
+		"plate_nr": "TOP 859",
+		"id_number": "4555896"
+
+	}
+]
+
+
+var accidentDO = [
+	{
+		"dataTime":"2017-11-13 18:55:00",
+		"address":"Baršausko g. 59, Kaunas",
+		"participants":[1,3] 
+	},
+	{
+		"dataTime":"2017-11-13 18:55:00",
+		"address":"Baršausko g. 59, Kaunas",
+		"participants":[1,3,2] 
+	},
+	{
+		"dataTime":"2017-11-13 18:55:00",
+		"address":"Baršausko g. 59, Kaunas",
+		"participants":[1,2] 
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 console.log(Carcrash);
 
