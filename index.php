@@ -353,32 +353,7 @@ var accidentDO = [
 ]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-console.log(Carcrash);
+console.log(accidentDO);
 
  </script>
 </html>
